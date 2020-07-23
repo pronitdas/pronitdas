@@ -3,7 +3,7 @@
 # I'm a Fullstack developer from India 🇮🇳
 
 - 🏢 I'm currently working at **GeoSpoc**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 💬 Ping me about **vue**, **javascript**, **development**, **python**, **react**
 - 📫 Reach me: [twitter.com/pronitk](https://twitter.com/pronitk)
 - 😄 Pronouns: He/Him
