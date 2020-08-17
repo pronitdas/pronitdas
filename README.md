@@ -9,4 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡️ Fun fact: I'm a die hard Whovian #GERONIMO
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronitdas)](https://github.com/pronitdas/github-readme-stats)
+
+
 ![pronitdas's github stats](https://github-readme-stats.vercel.app/api?username=pronitdas&show_icons=true&count_private=true&theme=synthwave)
