@@ -11,5 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronitdas)](https://github.com/pronitdas/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pronitdas&theme=onedark)](https://github.com/pronitdas/github-profile-trophy)
 
 ![pronitdas's github stats](https://github-readme-stats.vercel.app/api?username=pronitdas&show_icons=true&count_private=true&theme=synthwave)
