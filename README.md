@@ -2,9 +2,9 @@
 
 # I'm a Fullstack developer from India 🇮🇳
 
-- 🏢 I'm currently working at OLA.
+- 🏢 I'm currently working at Krutrim.
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
-- 💬 Ping me about **javascript**, **development**, **python**, **react**, **wasm**, **next**, **aws**, **geospatial**, **cicd**
+- 💬 Ping me about **ai**,**rags**, **javascript**, **development**, **python**, **react**, **wasm**, **next**, **aws**, **geospatial**, **cicd**
 - 📫 Reach me: [twitter.com/pronitk](https://twitter.com/pronitk)
 - 📫 Reach me: [pronit78](https://www.instagram.com/pronit78)
 - 😄 Pronouns: He/Him
