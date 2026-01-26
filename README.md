@@ -2,7 +2,7 @@
 
 # I'm a Fullstack developer from India 🇮🇳
 
-- 🏢 I'm currently working at Krutrim.
+- 🏢 I'm currently working at Tardis [http://tardis.digital/](http://tardis.digital/)
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`
 - 💬 Ping me about **ai**,**rags**, **javascript**, **development**, **python**, **react**, **wasm**, **next**, **aws**, **geospatial**, **cicd**
 - 📫 Reach me: [twitter.com/pronitk](https://twitter.com/pronitk)
