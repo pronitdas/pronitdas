@@ -15,6 +15,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pronitdas&theme=onedark)](https://github.com/pronitdas/github-profile-trophy)
 
 ![pronitdas's github stats](https://github-readme-stats.vercel.app/api?username=pronitdas&show_icons=true&count_private=true&theme=synthwave)
-
-
+![updatesq](https://algora.io/og/user/pronitdas)
 ![updates](https://metrics.lecoq.io/pronitdas)
